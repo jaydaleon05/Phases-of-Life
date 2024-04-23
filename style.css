@@ -1,0 +1,22 @@
+element.style{
+
+}.container{
+    text-align: center;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+h1{
+    
+    text-align: center;
+    font-size: 65px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    color: goldenrod;
+    font-family: 'Lora';
+}
+body{
+    background-color: rgb(66, 65, 65);
+}
+
